@@ -1,0 +1,9 @@
+{
+  "method": "rate-based",
+  "columns_used": [
+    "month",
+    "macro_entropy_user",
+    "macro_js_divergence"
+  ],
+  "rule": "Exploration if delta_entropy>0 and delta_divergence>0; Consolidation if both negative; else Transitional"
+}

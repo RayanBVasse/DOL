@@ -1,0 +1,11 @@
+{
+  "entropy_high_quantile": 0.66,
+  "entropy_low_quantile": 0.33,
+  "divergence_high_quantile": 0.66,
+  "divergence_low_quantile": 0.33,
+  "columns_used": [
+    "month",
+    "macro_entropy_user",
+    "macro_js_divergence"
+  ]
+}

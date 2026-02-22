@@ -1,0 +1,7 @@
+k,svd_dims,entropy_contrast_peak_minus_early,js_spike_contrast_sep_oct_minus_may_aug,js_recovery_contrast_nov_dec_minus_sep_oct,p_month_shuffle_entropy,p_month_shuffle_js_spike,p_month_shuffle_js_recovery,p_role_shuffle_entropy,p_role_shuffle_js_spike,p_role_shuffle_js_recovery,p_volume_control_entropy,p_volume_control_js_spike,p_volume_control_js_recovery,min_user_per_month,min_assistant_per_month,curves_csv
+40,100,-0.008074934271338208,0.07556956111711882,-0.051969523442066345,0.36,0.0,0.0,0.0,0.0,0.0,0.62,0.51,0.37,774,972,out\robustness_curves_k40_svd100.csv
+40,200,0.08195124455786207,0.03961967312608927,-0.05843707790507713,0.0,0.0,0.0,0.03,0.0,0.0,0.54,0.57,0.43,774,972,out\robustness_curves_k40_svd200.csv
+60,100,0.005878673066782358,0.059235159162014384,-0.05425764397121502,0.36,0.0,0.0,0.995,0.0,0.0,0.48,0.63,0.345,774,972,out\robustness_curves_k60_svd100.csv
+60,200,0.050981611451301756,0.04321294439826934,-0.05848566609827954,0.04,0.0,0.0,0.995,0.0,0.0,0.51,0.56,0.345,774,972,out\robustness_curves_k60_svd200.csv
+80,100,0.0257217256511173,0.06963182739911083,-0.06416139681589894,0.115,0.0,0.0,1.0,0.0,0.0,0.44,0.6,0.29,774,972,out\robustness_curves_k80_svd100.csv
+80,200,0.06446346420015514,0.027805537743987307,-0.07228712008017596,0.0,0.0,0.0,0.44,0.0,0.0,0.4,0.62,0.265,774,972,out\robustness_curves_k80_svd200.csv

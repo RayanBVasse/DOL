@@ -1,0 +1,5 @@
+thread_id,first_sustained_domain,first_sustained_len,first_sustained_initiator_role,first_sustained_start
+68b46172-1508-832a-b737-e6459f52bd94,5,22,assistant,2025-09-19 09:16:35.145285+00:00
+68b559c0-a794-832d-9494-bc8167393bd8,5,21,user,2025-10-20 13:45:20.452472+00:00
+69241ffd-12f0-832e-8d62-13057bac90b8,5,26,assistant,2025-12-04 12:13:17.020204+00:00
+6931caba-75d8-832f-89ef-e59ee4f4d972,6,21,user,2025-12-07 08:40:07.213000+00:00

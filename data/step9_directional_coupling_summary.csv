@@ -1,0 +1,2 @@
+months_used,num_months,num_pairs,forward_mean_cos_user_to_asst,reverse_mean_cos_asst_to_user,lead_diff_forward_minus_reverse,p_perm_forward_greater,p_perm_reverse_greater,p_perm_abs_diff,N_perm,min_msgs_per_role_per_month
+"2025-05, 2025-06, 2025-07, 2025-08, 2025-09, 2025-10, 2025-11, 2025-12",8,6,-0.050408200338493525,-0.18968323521977834,0.13927503488128481,0.651,0.901,0.697,2000,200

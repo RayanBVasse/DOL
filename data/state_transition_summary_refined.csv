@@ -1,0 +1,6 @@
+from_state,to_state,count
+Consolidation,Exploration,1
+Exploration,Transitional,1
+Initial,Transitional,1
+Transitional,Consolidation,1
+Transitional,Transitional,5

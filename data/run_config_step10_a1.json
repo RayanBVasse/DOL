@@ -1,0 +1,12 @@
+{
+  "weekly_summary_path": "out\\weekly_directional_summary.csv",
+  "monthly_metrics_path": "out\\macro_monthly_metrics.csv",
+  "computed_metrics": [
+    "weekly_abs_directional_diff",
+    "weekly_perm_p",
+    "monthly_entropy_range",
+    "monthly_alignment_range",
+    "structure_index_entropy",
+    "structure_index_alignment"
+  ]
+}

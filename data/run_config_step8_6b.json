@@ -1,0 +1,19 @@
+{
+  "SEED": 42,
+  "K_FINE": 60,
+  "SVD_DIMS": 100,
+  "MAX_FEATURES": 60000,
+  "MIN_DF": 2,
+  "MAX_DF": 0.9,
+  "NGRAM_RANGE": [
+    1,
+    2
+  ],
+  "input_master": "out\\messages_master.csv",
+  "input_macro_summary": "out\\macro_domain_summary.csv",
+  "outputs": {
+    "node_to_fine": "out\\node_to_fine_cluster.csv",
+    "node_to_macro": "out\\node_to_macro_domain.csv",
+    "diag_check": "out\\diag_macro_repro_check.csv"
+  }
+}

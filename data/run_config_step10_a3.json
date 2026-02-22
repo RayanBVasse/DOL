@@ -1,0 +1,9 @@
+{
+  "window_size": 250,
+  "stride": 250,
+  "metrics": [
+    "combined_entropy",
+    "user_entropy"
+  ],
+  "entropy_base": "log2"
+}
