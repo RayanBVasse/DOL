@@ -1,0 +1,9 @@
+month,period,jsd_from_train_mean
+2025-05,train,0.2861
+2025-06,train,0.2294
+2025-07,train,0.1832
+2025-08,train,0.2573
+2025-09,holdout,0.4158
+2025-10,holdout,0.4283
+2025-11,holdout,0.447
+2025-12,holdout,0.5289
